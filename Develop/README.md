@@ -1,8 +1,8 @@
 
-  # test
+  # Readme Generator
 
   ## Description
-  test desc 
+  This is a commandline application used to generate readme files.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -11,13 +11,13 @@
   - [Questions](#questions)
 
   ## Installation
-  teest installinstr
+  Code can be acquired from github profile.
 
   ## Usage
-  asdfasdf
+  Allows users to answer a series of questions to generate a professional readme.
 
   ## License
-  This project is licensed under the Apache license.
+  This project is licensed under the MIT license.
 
   ## Questions
   GitHub: [rhorner998](https://github.com/rhorner998)  
